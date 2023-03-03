@@ -8,13 +8,19 @@ body {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    /* padding: 56px 64px; */
     gap: 32px;
-
-   
     background: #D7DBDD;
     
     width: 100vw;
     height: 100vh;
   
+}
+
+.App {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    width: 100vw;
+    height: 100vh;
 }

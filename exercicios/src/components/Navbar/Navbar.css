@@ -1,7 +1,5 @@
 .navbar {
-    /* Auto layout */
-
-    
+      
 
     display: flex;
     flex-direction: row;
@@ -13,9 +11,6 @@
 
     width: 100vw;
     height: 98px;
-
-    /* light-gray */
-
     background: #EAEAEA;
 
 }
