@@ -1,7 +1,6 @@
 import "./Filter.css"
 import { useState } from "react"
 import { lista } from "../../lista";
-import { element } from "prop-types";
 import ListCourses from "../ListCourses";
 
 
