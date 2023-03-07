@@ -1,9 +1,7 @@
 
-// import './App.css'
 import PropTypes from 'prop-types';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
-import { lista } from './lista';
 import Filter from './components/Filter';
 
 function App() {
@@ -18,4 +16,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
