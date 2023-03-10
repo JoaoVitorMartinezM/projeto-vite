@@ -25,9 +25,13 @@ const Filter = (props) => {
     }
 
     return(
-        <div>
-            <input type="text" onChange={handleOnchange} />
-            <button onClick={handleOnClick}>Search</button>
+        <div> 
+            <div id="searchArea">
+                <input className="search" type="text" onChange={handleOnchange} />
+                <button id="buttonSearch" onClick={handleOnClick}>Search</button>
+                
+            </div>
+            
             <ListCourses list={list}/>
             
 

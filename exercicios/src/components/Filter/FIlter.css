@@ -1,0 +1,26 @@
+.search {
+    width: 200px;
+    border: 2px solid #000;
+    border-radius: 15px;
+    margin: 10px 7px;
+
+    padding: 5px;
+    
+}
+
+#buttonSearch {
+    width: 80px;
+    border: 2px solid #000;
+    border-radius: 15px;
+    padding: 5px;
+
+}
+
+#searchArea {
+
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin: 20px 20px;
+}
+
